@@ -6,7 +6,7 @@ DMX Box's IP : 192.168.1.110 (in Max patcher)
 Your Computer's IPv4 : 192.168.1.100 or 192.168.1.x  
 Your Computer's mask : 250.250.250.0  
 
-Maxmsp [simound~] object download link : https://github.com/v7b1/sigmund_64bit-version/releases
+Maxmsp [sigmund~] object download link : https://github.com/v7b1/sigmund_64bit-version/releases
 
 ## LED number 2022.06.09
 
