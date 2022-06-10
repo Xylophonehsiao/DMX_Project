@@ -1,10 +1,8 @@
 # testing
 
-https://mega.nz/file/V4llAZoC#rsQ0IfvhLCo1ne6tJ_Ahc_OBPxs3HTNaOJqZ0W9Y1as
+## Setup
 
-https://mega.nz/file/N50xBBCY#o486v0dkTA-hdB8iEUp3xP6oTW05Z6LKBXdLg4Q2E5c
-
-DMX Box's IP : 192.168.1.110  
+DMX Box's IP : 192.168.1.110 (in Max patcher)  
 Your Computer's IPv4 : 192.168.1.100 or 192.168.1.x  
 Your Computer's mask : 250.250.250.0  
 
@@ -17,3 +15,8 @@ Maxmsp [simound~] object download link : https://github.com/v7b1/sigmund_64bit-v
 ## Sound
 
 https://drive.google.com/file/d/1i5obLucV5xKHbgz3-qXC9fqw3Py-ixRv/view?usp=sharing
+
+## DMX Box's Document
+https://mega.nz/file/V4llAZoC#rsQ0IfvhLCo1ne6tJ_Ahc_OBPxs3HTNaOJqZ0W9Y1as
+
+https://mega.nz/file/N50xBBCY#o486v0dkTA-hdB8iEUp3xP6oTW05Z6LKBXdLg4Q2E5c
