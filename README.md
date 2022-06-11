@@ -10,6 +10,13 @@ Maxmsp [sigmund~] object download link : https://github.com/v7b1/sigmund_64bit-v
 
 ## LED number 2022.06.09
 
+燈光編號分組  
+主燈：正面白燈，右至左 #1~9  
+桌燈：右至左 #10~13  
+側燈：右 #14~15｜左 #16~17  
+前燈：右 #18~19｜左 #20~21  
+
+
 <img width="1031" alt="螢幕快照 2022-06-08 下午2 10 21" src="https://user-images.githubusercontent.com/22651956/172766017-019ba0bf-0b17-448f-858b-e9aa2eeb0441.png">
 
 ## Sound
