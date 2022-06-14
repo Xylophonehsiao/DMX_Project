@@ -17,7 +17,7 @@ Maxmsp [sigmund~] object download link : https://github.com/v7b1/sigmund_64bit-v
 前燈：右 #18 19｜左 #20 21  
 
 
-<img width="1031" alt="螢幕快照 2022-06-08 下午2 10 21" src="https://user-images.githubusercontent.com/22651956/172766017-019ba0bf-0b17-448f-858b-e9aa2eeb0441.png">
+<img width="1062" alt="螢幕快照 2022-06-14 下午12 55 56" src="https://user-images.githubusercontent.com/22651956/173496410-4f99c79b-5a0d-4689-b465-dd74c29f54e9.png">
 
 ## Sound
 
@@ -27,3 +27,7 @@ https://drive.google.com/file/d/1i5obLucV5xKHbgz3-qXC9fqw3Py-ixRv/view?usp=shari
 https://mega.nz/file/V4llAZoC#rsQ0IfvhLCo1ne6tJ_Ahc_OBPxs3HTNaOJqZ0W9Y1as
 
 https://mega.nz/file/N50xBBCY#o486v0dkTA-hdB8iEUp3xP6oTW05Z6LKBXdLg4Q2E5c
+
+## Session
+
+https://docs.google.com/document/d/1j9JLYQehk30pyWEZo4ppqj9njl7hbBA-3RjCd0CI_Aw/edit?fbclid=IwAR2CMM37c5SX7-WlrbtZS3LUwI5BABvByIx15tvZfzyl4nOay9xiyg1wah0
