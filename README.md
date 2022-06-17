@@ -10,7 +10,8 @@ DMX Address :
 16ch-V12 : OXXXXXXXXX  
 WS24L3A :  OXXXOXXXXX
 
-Maxmsp [sigmund~] object download link : https://github.com/v7b1/sigmund_64bit-version/releases
+Maxmsp [sigmund~] object download link : https://github.com/v7b1/sigmund_64bit-version/releases  
+Maxmsp [imp.artnet.controller] object download link :https://www.theimpersonalstereo.com/impdmx
 
 ## LED number 2022.06.09
 
