@@ -1,4 +1,4 @@
-# testing
+# DMX_Project
 
 ## Setup
 
