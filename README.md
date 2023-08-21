@@ -11,7 +11,7 @@ DMX Address :
 WS24L3A :  OXXXOXXXXX
 
 Maxmsp [sigmund~] object download link : https://github.com/v7b1/sigmund_64bit-version/releases  
-Maxmsp [imp.artnet.controller] object download link :https://www.theimpersonalstereo.com/impdmx
+Maxmsp [imp.artnet.controller] object download link :https://www.theimpersonalstereo.com/impdmx  
 for M1 chip : https://support.apple.com/zh-tw/HT211861  
 
 ## LED number 2022.06.09
